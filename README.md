@@ -1,6 +1,6 @@
 ![Software Developer & IT Service Management](https://github.com/ckodhiambo/ckodhiambo/blob/main/istockphoto-1137735902-612x612.jpg)
 
-### Hi there 👋, Ken Calvins
+# Hi there 👋, Ken Calvins here!
 #### Software Developer & IT Service Management
 
 
@@ -11,6 +11,13 @@ With expertise in frameworks like React.js and Laravel (Livewire), I enjoy pushi
 Beyond coding, I also find immense fulfillment in sharing my knowledge and experience with others. I actively engage in tutoring coding to kids, helping them discover the exciting world of programming and fostering their growth in this ever-evolving field.
 
 If you're looking for a dedicated developer who can bring your vision to reality and deliver exceptional digital experiences, you've come to the right place. Let's collaborate and create something extraordinary together!
+
+##SKILLS & EXPERIENCE
+
+⚛ React.js
+💻 HTML, Tailwind CSS & JS
+☁ Microsoft Azure
+
 
 Skills: REACT JS / LARAVEL / LIVEWIRE / HTML / TAILWIND-CSS / TYPESCRIPT
 
