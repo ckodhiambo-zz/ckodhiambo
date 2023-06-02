@@ -26,8 +26,6 @@ Skills: REACT JS / LARAVEL / LIVEWIRE / HTML / TAILWIND-CSS / TYPESCRIPT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckodhiambo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ckodhiambo)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ckodhiambo)  
 
 ![Profile views](https://gpvc.arturio.dev/ckodhiambo)  
