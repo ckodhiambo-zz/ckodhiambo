@@ -12,4 +12,5 @@ I actively engage in tutoring coding to kids, helping them discover the exciting
 If you're looking for a dedicated developer who can bring your vision to reality and deliver exceptional digital experiences, 
 you've come to the right place. Let's collaborate and create something extraordinary together! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckodhiambo&hide=contribs,prs)
+![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckodhiambo&hide=contribs,prs)
+
