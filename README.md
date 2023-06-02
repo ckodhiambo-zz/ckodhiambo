@@ -12,8 +12,22 @@ If you're looking for a dedicated developer who can bring your vision to reality
 
 Skills: REACT JS / LARAVEL / LIVEWIRE / HTML / TAILWIND-CSS / TYPESCRIPT
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Co-founding my own company - (Jack O' Clubs) 
+- 🌱 I’m currently learning Spring Boot - Java 
+- 👯 I’m looking to collaborate on SaaS Applications 
+- 🤔 I’m looking for help with Next.js & Go 
+- 💬 Ask me about Laravel 
+- 📫 How to reach me: ken.calvins.o@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ckodhiambo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kennedy-calvins-104011155//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_ken_calvins_o//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_Ken_Calvins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ken-calvins-blog-ckodhiambo.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/obsstudio.svg' alt='obsstudio' height='40'>](https://www.jackofclubs.co.ke/)  
 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckodhiambo)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ckodhiambo)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ckodhiambo)  
+
+![Profile views](https://gpvc.arturio.dev/ckodhiambo)  
