@@ -1,6 +1,8 @@
+![Software Developer & IT Service Management](https://github.com/ckodhiambo/ckodhiambo/blob/main/istockphoto-1137735902-612x612.jpg)
+
 ### Hi there 👋, Ken Calvins
 #### Software Developer & IT Service Management
-![Software Developer & IT Service Management](https://github.com/ckodhiambo/ckodhiambo/blob/main/istockphoto-1137735902-612x612.jpg)
+
 
 I'm Kennedy Calvins 😎, a dedicated and enthusiastic full stack software developer 💻 with a deep passion for the art of software engineering 😍. I thrive on building remarkable digital experiences that not only meet but exceed the goals and objectives of the end users.
 
