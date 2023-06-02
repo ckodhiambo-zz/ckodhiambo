@@ -15,11 +15,9 @@ If you're looking for a dedicated developer who can bring your vision to reality
 ##SKILLS & EXPERIENCE
 
 ⚛ React.js
-💻 HTML, Tailwind CSS & JS
+💻 HTML, Tailwind CSS, JS & PHP
 ☁ Microsoft Azure
 
-
-Skills: REACT JS / LARAVEL / LIVEWIRE / HTML / TAILWIND-CSS / TYPESCRIPT
 
 - 🔭 I’m currently working on Co-founding my own company - (Jack O' Clubs) 
 - 🌱 I’m currently learning Spring Boot - Java 
